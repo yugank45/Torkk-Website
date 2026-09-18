@@ -1,0 +1,28 @@
+# Torkk (BlackOriginX Private Limited)
+
+> Torkk is a technology-driven urban mobility platform in India, built by BlackOriginX Private Limited to make everyday transportation simpler, safer, and more accessible.
+
+## Core Summary
+- **Entity**: Torkk
+- **Legal Entity**: BlackOriginX Private Limited
+- **Headquarters**: Delhi NCR, India
+- **Website**: https://www.torkk.in
+- **Pillars**: Technology, Mobility, Safety, Accessibility, Fairness
+- **Business Model**: Zero-commission driver-partner intermediary platform connecting independent commuters with verified operators of cabs, EV rides, auto-rickshaws, bikes, and hyper-local parcel logistics.
+
+## Key Principles
+- **Fair by Design**: 0% platform commission deductions on standard rides, giving drivers maximum earnings and drastically reducing passenger cancellations.
+- **Safety First**: Proactive safety architecture including comprehensive KYC verification, live GPS ride telemetry, direct Emergency SOS linked to 112 police and emergency services, and encrypted ride sharing.
+- **Multimodal Transit**: One unified interface for Cabs, EV Mobility, Auto-rickshaws, Bike-taxis, and Hyper-local Parcel deliveries.
+- **Urban India Focus**: Tailored to address specific urban transit realities in metropolitan Indian hubs, starting with Delhi NCR.
+
+## Official Links
+- [Home](https://www.torkk.in/)
+- [About Torkk](https://www.torkk.in/about)
+- [Vision & Roadmap](https://www.torkk.in/vision)
+- [Safety First](https://www.torkk.in/safety)
+- [Services](https://www.torkk.in/services)
+- [Contact & Partnerships](https://www.torkk.in/contact)
+- [Frequently Asked Questions](https://www.torkk.in/faq)
+- [Privacy Policy](https://www.torkk.in/privacy-policy)
+- [Terms of Service](https://www.torkk.in/terms-and-conditions)
